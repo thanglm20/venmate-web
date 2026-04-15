@@ -34,7 +34,7 @@
     // Hàm tự động lấy nội dung từ file content.md
     async function loadPrivacy() {
         try {
-            const response = await fetch('privacy.md');
+            const response = await fetch('privacy_content.md');
             if (!response.ok) throw new Error('Không tìm thấy file nội dung');
             const data = await response.text();
             document.getElementById('content').innerHTML = marked.parse(data);
