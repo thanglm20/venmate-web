@@ -1,7 +1,11 @@
-# ĐIỀU KHOẢN DỊCH VỤ (TERMS OF SERVICE)
+# ĐIỀU KHOẢN DỊCH VỤ
 *Ngày cập nhật cuối cùng: 15 tháng 04, 2026*
 
 Chào mừng bạn đến với **Venmate**. Bằng việc đăng ký tài khoản hoặc sử dụng ứng dụng, bạn đồng ý tuân thủ các điều khoản dưới đây. Nếu bạn không đồng ý, vui lòng ngừng sử dụng dịch vụ ngay lập tức.
+
+**Ngôn ngữ**
+Ngôn ngữ chính thức của các Điều khoản này là tiếng Việt.
+Trong trường hợp các Điều khoản này được dịch sang các ngôn ngữ khác, bản tiếng Việt sẽ là bản có giá trị pháp lý cao nhất và được ưu tiên áp dụng để giải thích các điều khoản. Mọi bản dịch chỉ mang tính chất tham khảo.
 
 ### 1. Điều kiện sử dụng
 * Bạn phải từ 13 tuổi trở lên để sử dụng Venmate. Nếu dưới 16 tuổi, việc đăng ký phải có sự giám sát của cha mẹ hoặc người giám hộ theo quy định pháp luật.
@@ -25,3 +29,8 @@ Chúng tôi có thể cập nhật điều khoản này để phù hợp với q
 
 ### 6. Luật áp dụng
 Điều khoản này được điều chỉnh và giải thích theo luật pháp nước Cộng hòa Xã hội Chủ nghĩa Việt Nam.
+
+### 7. QUYỀN SỞ HỮU TRÍ TUỆ
+Quyền sở hữu đối với Ứng dụng.
+
+• Toàn bộ quyền sở hữu trí tuệ đối với Ứng dụng, bao gồm nhưng không giới hạn ở mã nguồn, giao diện, thiết kế, tên thương mại, logo và các nội dung do chúng tôi tạo ra (trừ nội dung do Người dùng), đều thuộc về **Venmate**.

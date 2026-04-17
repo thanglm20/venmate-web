@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Venmate - Kết nối đam mê thể thao</title>
+    <link rel="icon" type="image/png" href="static/app_icon.png">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         :root {
@@ -40,10 +41,14 @@
         }
 
         .logo {
-            font-size: 1.8rem;
-            font-weight: bold;
-            color: var(--primary-color);
             text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            height: 60px;
+            width: auto;
         }
 
         /* Hero Section */
@@ -83,12 +88,29 @@
         }
 
         /* Features */
-        .features {
+        .features-section {
             padding: 80px 10%;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 30px;
             background: var(--light-color);
+        }
+
+        .features-section h2 {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: var(--dark-color);
+        }
+
+        .features-section .section-sub {
+            text-align: center;
+            color: #777;
+            font-size: 1rem;
+            margin-bottom: 50px;
+        }
+
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 28px;
         }
 
         .feature-card {
@@ -99,14 +121,27 @@
             transition: 0.3s;
         }
 
+        .feature-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(9,204,211,0.15);
+        }
+
         .feature-card i {
-            font-size: 2.5rem;
+            font-size: 2.2rem;
             color: var(--primary-color);
-            margin-bottom: 20px;
+            margin-bottom: 18px;
+            display: block;
         }
 
         .feature-card h3 {
-            margin-bottom: 15px;
+            margin-bottom: 12px;
+            font-size: 1.05rem;
+        }
+
+        .feature-card p {
+            color: #666;
+            font-size: 0.95rem;
+            line-height: 1.7;
         }
 
         /* Footer */
@@ -131,15 +166,32 @@
             color: var(--primary-color);
         }
 
+        nav a {
+            text-decoration: none;
+            color: var(--dark-color);
+            margin-left: 24px;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        nav a:hover {
+            color: var(--primary-color);
+        }
+
         @media (max-width: 768px) {
             .hero h1 { font-size: 2rem; }
+            nav a { margin-left: 14px; font-size: 0.95rem; }
         }
     </style>
 </head>
 <body>
 
     <header>
-        <a href="#" class="logo">VENMATE</a>
+        <a href="index.html" class="logo"><img src="static/logo_transparent_icon.png" alt="Venmate"></a>
+        <nav>
+            <a href="index.html">Trang chủ</a>
+            <a href="about.html">Giới thiệu</a>
+        </nav>
     </header>
 
     <section class="hero">
@@ -148,21 +200,50 @@
         <a href="#" class="btn-download">Sắp có trên App Store & Play Store</a>
     </section>
 
-    <section class="features">
-        <div class="feature-card">
-            <i class="fas fa-map-marker-alt"></i>
-            <h3>Tìm sân gần bạn</h3>
-            <p>Định vị các sân tập và CLB thể thao trong bán kính gần nhất.</p>
-        </div>
-        <div class="feature-card">
-            <i class="fas fa-users"></i>
-            <h3>Ghép cặp thông minh</h3>
-            <p>Thuật toán gợi ý bạn chơi dựa trên trình độ và sở thích của bạn.</p>
-        </div>
-        <div class="feature-card">
-            <i class="fas fa-calendar-check"></i>
-            <h3>Đặt lịch dễ dàng</h3>
-            <p>Lên lịch thi đấu và thông báo cho đồng đội chỉ với vài thao tác.</p>
+    <section class="features-section">
+        <h2>Tính năng nổi bật</h2>
+        <p class="section-sub">Tất cả những gì bạn cần để tậy vui chơi thể thao cùng mọi người</p>
+        <div class="features">
+            <div class="feature-card">
+                <i class="fas fa-trophy"></i>
+                <h3>Tạo và quản lý trận đấu</h3>
+                <p>Tạo trận đấu, tuyển người chơi và quản lý theo môn thể thao, địa điểm, thời gian, trình độ phù hợp.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-user-plus"></i>
+                <h3>Đăng ký tham gia</h3>
+                <p>Đăng ký tham gia trận đấu của người khác một cách nhanh chóng, dễ dàng.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-bell"></i>
+                <h3>Thông báo thời gian thực</h3>
+                <p>Nhập thông báo khi có người yêu cầu tham gia, được xác nhận hoặc bị từ chối.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-search"></i>
+                <h3>Tìm kiếm trận đấu</h3>
+                <p>Tìm kiếm trận đấu/slots theo môn thể thao, địa điểm, trình độ và thời gian mong muốn.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-sliders-h"></i>
+                <h3>Bộ lọc thông minh</h3>
+                <p>Các tính năng lọc kết quả thông minh giúp bạn nhanh chóng tìm được trận đấu phù hợp.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-mobile-alt"></i>
+                <h3>Giao diện thân thiện</h3>
+                <p>Giao diện thân thiện, dễ sử dụng trên cả điện thoại và web.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-flag"></i>
+                <h3>Đánh giá &amp; Tố cáo</h3>
+                <p>Hệ thống đánh giá, tố cáo giúp nâng cao chất lượng người chơi và trận đấu.</p>
+            </div>
+            <div class="feature-card">
+                <i class="fas fa-star"></i>
+                <h3>Chấm điểm uy tín</h3>
+                <p>Hệ thống chấm điểm uy tín của người chơi dựa trên lịch sử tham gia và đánh giá của đối tác.</p>
+            </div>
         </div>
     </section>
 
@@ -171,7 +252,7 @@
         <div class="footer-links">
             <a href="privacy.html">Chính sách bảo mật</a>
             <a href="terms.html">Điều khoản sử dụng</a>
-            <a href="mailto:support@venmate.com.vn">Liên hệ</a>
+            <a href="about.html">Giới thiệu</a>
         </div>
     </footer>
 
