@@ -32,7 +32,7 @@ Chúng tôi sử dụng thông tin của bạn để:
 
 ### 4. Chia sẻ thông tin
 Chúng tôi **không** bán dữ liệu của bạn. Tuy nhiên, chúng tôi sử dụng các dịch vụ của bên thứ ba đáng tin cậy như Google Firebase (để gửi thông báo) và Google Login (để xác thực đăng nhập) nhằm vận hành ứng dụng. Thông tin chỉ được chia sẻ trong các trường hợp sau:
-* **Với người dùng khác:** Tên và hồ sơ thể thao của bạn sẽ hiển thị công khai để người khác có thể tìm thấy và kết nối.
+* **Với người dùng khác:** Tên và hồ sơ thể thao (không bao gồm địa chỉ email) của bạn sẽ hiển thị công khai để người khác có thể tìm thấy và kết nối.
 * **Yêu cầu pháp lý:** Khi có yêu cầu từ cơ quan chức năng theo quy định của pháp luật Việt Nam.
 
 ### 5. Lưu trữ và Bảo mật
