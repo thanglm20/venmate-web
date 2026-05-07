@@ -18,7 +18,7 @@ Trong trường hợp các Điều khoản này được dịch sang các ngôn 
 * **Bảo mật tài khoản:** Bạn chịu trách nhiệm bảo mật mật khẩu của mình. Chúng tôi không chịu trách nhiệm cho bất kỳ tổn thất nào phát sinh từ việc bạn để lộ thông tin tài khoản.
 
 ### 3. Quyền hạn của Venmate
-* chúng tôi có quyền tạm ngừng hoặc chấm dứt tài khoản của bạn nếu phát hiện vi phạm điều khoản hoặc có yêu cầu từ cơ quan chức năng.
+* Chúng tôi có quyền tạm ngừng hoặc chấm dứt tài khoản của bạn nếu phát hiện vi phạm điều khoản hoặc có yêu cầu từ cơ quan chức năng.
 * Venmate có quyền gỡ bỏ các nội dung vi phạm tiêu chuẩn cộng đồng trong vòng 24 giờ kể từ khi phát hiện hoặc nhận được phản hồi.
 
 ### 4. Giới hạn trách nhiệm
