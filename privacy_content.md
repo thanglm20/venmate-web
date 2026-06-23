@@ -1,18 +1,18 @@
 # CHÍNH SÁCH BẢO MẬT
 *Ngày cập nhật cuối cùng: 15 tháng 04 năm 2026*
 
-Chào mừng bạn đến với **Venmate**. Chúng tôi cam kết bảo vệ quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin của bạn khi bạn sử dụng ứng dụng di động **Venmate** và các dịch vụ liên quan.
+Chào mừng bạn đến với **Tìm đội**. Chúng tôi cam kết bảo vệ quyền riêng tư của bạn. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin của bạn khi bạn sử dụng ứng dụng di động **Tìm đội** và các dịch vụ liên quan.
 
 ### 1. Cam kết chung
  
-**Venmate** cam kết bảo vệ và tôn trọng quyền riêng tư của người sử dụng (“Người dùng"). Chính sách Quyền riêng tư này giải thích cách chúng tôi thu thập, xử lý, sử dụng và bảo vệ dữ liệu cá nhân của bạn khi bạn truy cập và sử dụng Ứng dụng và Dịch vụ của chúng tôi.
+**Tìm đội** cam kết bảo vệ và tôn trọng quyền riêng tư của người sử dụng (“Người dùng"). Chính sách Quyền riêng tư này giải thích cách chúng tôi thu thập, xử lý, sử dụng và bảo vệ dữ liệu cá nhân của bạn khi bạn truy cập và sử dụng Ứng dụng và Dịch vụ của chúng tôi.
  
 Các thay đổi, cập nhật hoặc bổ sung đối với Chính sách này sẽ được đăng tải trên Ứng dụng. Việc bạn tiếp tục sử dụng Dịch vụ sau khi các thay đổi có hiệu lực sẽ được hiểu là bạn đã chấp nhận các điều khoản mới.
 
 ### 2. Thông tin chúng tôi thu thập
 Để cung cấp dịch vụ kết nối đối tác thể thao tốt nhất, chúng tôi thu thập các loại dữ liệu sau:
 
-* **Thông tin tài khoản:** Tên, email, số điện thoại, giới tính, ngày sinh, mật khẩu khi bạn đăng ký tài khoản **Venmate** hoặc đăng kí bằng Google Login.
+* **Thông tin tài khoản:** Tên, email, số điện thoại, giới tính, ngày sinh, mật khẩu khi bạn đăng ký tài khoản **Tìm đội** hoặc đăng kí bằng Google Login.
 * **Thông tin hồ sơ:** Ảnh đại diện (sử dụng Camera/Thư viện ảnh), sở thích môn thể thao (Cầu lông, Pickleball, Bóng đá...) và các thông tin bạn tự nguyện đăng tải lên ứng dụng.
 * **Xác thực Google (Google Login):** Chúng tôi thu thập địa chỉ email, tên hiển thị và ảnh đại diện từ tài khoản Google của bạn để tạo hồ sơ người dùng và xác minh danh tính.
 * **Dữ liệu vị trí (Location):** Dữ liệu định vị được thu thập qua GPS hoặc địa chỉ IP (nếu bạn cho phép) để hiển thị các đối tác, sân tập gần bạn nhất và giúp nâng cao trải nghiệm của bạn trong ứng dụng (chúng tôi chỉ thu thập dữ liệu vị trí khi bạn đang sử dụng ứng dụng).
@@ -48,8 +48,8 @@ Bạn có quyền:
 
 ### 7. Thông tin liên hệ
 Nếu có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ:
-* **Email:** venmate.support@gmail.com
-* **Website:** [https://venmate.com.vn](https://venmate.com.vn)
+* **Email:** timdoi.hotro@gmail.com
+* **Website:** [https://timdoi.com.vn](https://timdoi.com.vn)
 * **Điện thoại:** 0975875811 
 
-Phiên bản Chính sách Quyền riêng tư này được soạn thảo nhằm đảm bảo tuân thủ pháp luật Việt Nam về bảo vệ dữ liệu cá nhân. Bằng việc sử dụng Ứng dụng **Venmate**, bạn xác nhận đã đọc, hiểu và đồng ý với các điều khoản được nêu trong Chính sách Quyền riêng tư này.
+Phiên bản Chính sách Quyền riêng tư này được soạn thảo nhằm đảm bảo tuân thủ pháp luật Việt Nam về bảo vệ dữ liệu cá nhân. Bằng việc sử dụng Ứng dụng **Tìm đội**, bạn xác nhận đã đọc, hiểu và đồng ý với các điều khoản được nêu trong Chính sách Quyền riêng tư này.
