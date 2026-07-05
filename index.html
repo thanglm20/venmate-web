@@ -70,21 +70,49 @@
             opacity: 0.9;
         }
 
-        .btn-download {
-            background: white;
-            color: var(--primary-color);
-            padding: 15px 30px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1rem;
-            transition: 0.3s;
+        .qr-download {
             display: inline-block;
+            margin-top: 10px;
         }
 
-        .btn-download:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        .qr-download img {
+            width: 180px;
+            height: 180px;
+            border-radius: 16px;
+            box-shadow: 0 6px 24px rgba(0,0,0,0.25);
+            transition: 0.3s;
+        }
+
+        .qr-download img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 32px rgba(0,0,0,0.35);
+        }
+
+        .qr-label {
+            display: block;
+            margin-top: 12px;
+            font-size: 0.95rem;
+            opacity: 0.9;
+        }
+
+        .store-badges {
+            display: flex;
+            justify-content: center;
+            gap: 14px;
+            margin-top: 18px;
+            flex-wrap: wrap;
+        }
+
+        .store-badges a img {
+            height: 44px;
+            border-radius: 8px;
+            transition: 0.3s;
+            opacity: 0.92;
+        }
+
+        .store-badges a img:hover {
+            opacity: 1;
+            transform: translateY(-2px);
         }
 
         /* Features */
@@ -197,7 +225,18 @@
     <section class="hero">
         <h1>Chung nhịp đập - Kết nối đam mê</h1>
         <p>Ứng dụng tìm kiếm đồng đội thể thao hàng đầu cho Cầu lông, Pickleball, Bóng đá và nhiều hơn thế nữa.</p>
-        <a href="#" class="btn-download">Sắp có trên App Store & Play Store</a>
+        <a href="#" class="qr-download">
+            <img src="static/qr_link_app.png" alt="QR tải ứng dụng">
+        </a>
+        <span class="qr-label">Quét mã QR để tải ứng dụng</span>
+        <div class="store-badges">
+            <a id="ios-badge" href="#" title="App Store" target="_blank" rel="noopener">
+                <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+            </a>
+            <a id="android-badge" href="#" title="Google Play" target="_blank" rel="noopener">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play">
+            </a>
+        </div>
     </section>
 
     <section class="features-section">
@@ -258,4 +297,9 @@
     </footer>
 
 </body>
+<script src="static/config.js"></script>
+<script>
+    document.getElementById('ios-badge').href = APP_CONFIG.ios_store_url;
+    document.getElementById('android-badge').href = APP_CONFIG.android_store_url;
+</script>
 </html>
